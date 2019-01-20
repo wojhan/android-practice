@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="meal_choice_array">
+        <item>Hamburger</item>
+        <item>Cheeseburger</item>
+        <item>Kurczakburger</item>
+        <item>Fishburger</item>
+        <item>PiesBurger</item>
+    </string-array>
+</resources>
